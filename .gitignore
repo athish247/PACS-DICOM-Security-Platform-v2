@@ -1,0 +1,43 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+*.log
+test_scratch/
+gui_backup_dark/
+
+# Generated reports and exports
+*.pdf
+*.csv
+*.cef
+*.leef
+
+# IDE and operating system
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Secrets
+.env
+.env.*
+!.env.example

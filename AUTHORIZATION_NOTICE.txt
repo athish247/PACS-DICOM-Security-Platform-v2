@@ -1,0 +1,12 @@
+PACS/DICOM SECURITY ASSESSMENT PLATFORM
+
+AUTHORIZED USE ONLY
+
+This tool is designed for use by authorized security professionals assessing
+PACS and DICOM systems under explicit written authorization.
+
+Unauthorized use against systems you do not own or have explicit permission
+to test may violate the Computer Fraud and Abuse Act (CFAA), the UK Computer
+Misuse Act, GDPR, HIPAA, and equivalent laws in your jurisdiction.
+
+The developers of this tool accept no liability for unauthorized use.
